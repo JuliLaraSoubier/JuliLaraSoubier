@@ -7,4 +7,6 @@
 - 🤗curiosidades sobre mim:
 - sou estudante 
 - quero cursar direito
-- 
+- ![](https://img.shields.io/badge/Scratch-4D97FF?style=for-the-badge&logo=Scratch&logoColor=white)
+
+
